@@ -1,4 +1,4 @@
-# @rbxts/randomstring
+# [@rbxts/randomstring](https://www.npmjs.com/package/@rbxts/randomstring)
 Generate random strings from a list of strings/characters.
 
 ### API
