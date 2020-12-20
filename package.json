@@ -1,0 +1,21 @@
+{
+  "name": "@rbxts/randomstring",
+  "version": "1.0.0",
+  "description": "Generate random strings from a list of strings/characters.",
+  "main": "out/init.lua",
+  "scripts": {
+    "prepublishOnly": "rbxtsc"
+  },
+  "keywords": ["random", "string"],
+  "author": "tacheometry",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "types": "out/index.d.ts",
+  "devDependencies": {
+    "@rbxts/compiler-types": "^1.0.0-beta.10.0",
+    "@rbxts/types": "^1.0.429"
+  },
+  "files": ["out"]
+}
