@@ -8,4 +8,6 @@
  * // ---> "cat-dog-cat-cat"
  * ```
  */
-export default function(length?: number, entries?: string[], separator?: string): string;
+declare function randomstring(length?: number, entries?: string[], separator?: string): string;
+
+export = randomstring;
